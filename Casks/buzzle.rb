@@ -1,6 +1,6 @@
 cask "buzzle" do
-  version "1.0.0"
-  sha256 "d46d7a196af2ab443bd04fef925a092e5227f6fb152d2d02a17a8fa125aa7441"
+  version "1.0.1"
+  sha256 "0432d6fb312f386303e54493809e367a880a1c5a9a7be4b2e690f33a9e1a7d4c"
 
   url "https://github.com/jparrill/buzzle/releases/download/v#{version}/Buzzle-#{version}-macos.zip"
   name "Buzzle"
